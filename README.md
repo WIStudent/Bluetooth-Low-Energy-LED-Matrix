@@ -1,5 +1,5 @@
 # Bluetooth Low Energy LED Matrix
-&copy; 2015 [Tobias Trumm](mailto:tobiastrumm@uni-muenster.de) licensed under GPLv2
+&copy; 2016 [Tobias Trumm](mailto:tobiastrumm@uni-muenster.de) licensed under GNU GPLv2
 
 This project uses BlueZ's D-Bus API to turn your Raspberry Pi 3 into a Low Energy peripheral. It provides a GATT service that allows you to control the [Adafruit Bicolor LED Square Pixel Matrix](https://www.adafruit.com/products/902).
 
